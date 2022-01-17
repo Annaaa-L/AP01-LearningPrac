@@ -1,2 +1,2 @@
 # AP01-LearningPrac
-This is for recording the process of learning TA from ZD.
+This is a personal growth record of a learning TA from ZD.
